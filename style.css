@@ -25,6 +25,10 @@ body{
 }
 @media (max-width:600px) and (min-width:0px) {
     .calc{
-       scale:1.3
+       scale:1.3;
+    }
+    .btn{
+        scale:1.2;
+        margin:5px;
     }
 }
