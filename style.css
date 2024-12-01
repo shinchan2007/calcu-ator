@@ -23,3 +23,8 @@ body{
 .form-control:focus{
     box-shadow: inset 4px 6px 8px 2px black !important;
 }
+@media (max-width:600px) and (min-width:0px) {
+    .calc{
+       scale:1.3
+    }
+}
