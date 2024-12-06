@@ -8,6 +8,8 @@ body{
 .btn{
     transition: 1s all ease;
     box-shadow: 3px 2px 3px 0px white;
+     scale:1.2;
+    margin:5px;
 }
 .btn:hover{
     scale:1.2;
@@ -22,8 +24,4 @@ body{
 }
 .form-control:focus{
     box-shadow: inset 4px 6px 8px 2px black !important;
-}
-.btn{
-    scale:1.2;
-    margin:5px;
 }
